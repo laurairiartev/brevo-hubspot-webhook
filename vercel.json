@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/brevo-webhook.js": {
+      "maxDuration": 10
+    }
+  }
+}
