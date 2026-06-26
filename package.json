@@ -1,0 +1,9 @@
+{
+  "name": "brevo-hubspot-webhook",
+  "version": "1.0.0",
+  "description": "Webhook receptor: Brevo email opens → HubSpot property → WhatsApp workflow",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
